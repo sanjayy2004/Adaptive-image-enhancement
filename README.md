@@ -38,7 +38,8 @@ The project compares **Median Filtering** (traditional approach) with the propos
   - OpenCV (`cv2`) – image processing  
   - NumPy – numerical computations  
   - Matplotlib – visualization  
-  - scikit-image – SSIM metric  
+  - scikit-image – SSIM metric
+    <img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/890b5dfd-d159-4eaa-ae40-64d0caef4d32" />
 
 ---
 
